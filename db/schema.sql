@@ -11,4 +11,4 @@ burger_name varchar(255) NOT NULL,
 devoured BOOL DEFAULT false,
 PRIMARY KEY (id)
 );
-Contact GitHub API Training Shop Blog About
+
